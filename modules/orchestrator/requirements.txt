@@ -1,4 +1,0 @@
-ipykernel==6.29.5
-jupyter==1.1.1
-opencv-python==4.10.0.84
-pillow==11.0.0

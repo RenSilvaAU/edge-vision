@@ -1,0 +1,2 @@
+#!/bin/bash
+ffmpeg -f avfoundation -framerate 30 -rtbufsize 100M -pixel_format uyvy422 -video_size 640x480 -i "0" -c:v h264_videotoolbox -b:v 1000k -max_delay 0 -c:a aac -f flv rtmp://localhost:1935/live/stream

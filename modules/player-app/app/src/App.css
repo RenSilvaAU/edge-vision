@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 100px; /* Adjust the size of the logo */
+  position: absolute;
+  top: 20px; /* Add margin to the top */
+  right: 20px; /* Add margin to the right */
+}
+
+.App-header {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding-top: 20px; /* Add padding to the top */
+}
+
+.title-container {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 20px; /* Align with the logo */
+}
+
+.stream-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 80vh;
+  padding: 20px;
+}
+
+.stream {
+  width: 100%;
+  padding: 10px;
+}
+
+iframe {
+  width: 100%;
+  height: 500px;
+  border: none;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 14px;
+}
