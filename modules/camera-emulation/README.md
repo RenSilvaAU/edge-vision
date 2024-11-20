@@ -1,5 +1,5 @@
 # Edge Vision
-| Camera Utilities
+| Camera Emulation
 
 This folder is part of the Edge-Vision project. The objective of this folder is to offer a few utilities for development in case you do not have access to a camera streaming RTSP or RTMP.
 

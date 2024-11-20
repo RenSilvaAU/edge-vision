@@ -12,7 +12,7 @@ Edge Vision provides a modular approach to building vision solutions on edge dev
 
 ## Modules
 
-- **Camera Utilities**: Tools and utilities for interfacing with camera hardware. [Read more](./modules/camera-utilities#readme)
+- **Camera Emulation**: Tools and utilities to emulate RTSP/RTMP cameras. [Read more](./modules/camera-emulation#readme)
 - **Custom Vision**: Implements custom vision models for image recognition tasks. [Read more](./modules/custom-vision#readme)
 - **Auto ML for Images**: Automated machine learning for image classification and object detection. [Read more](./modules/auto-ml-for-images#readme)
 - **Orchestrator Building Blocks**: Core components for orchestrating the workflow between different modules. [Read more](./modules/orchestrator-building-blocks#readme)
