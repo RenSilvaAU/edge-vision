@@ -12,12 +12,12 @@ Edge Vision provides a modular approach to building vision solutions on edge dev
 
 ## Modules
 
-- **Camera Utilities**: Tools and utilities for interfacing with camera hardware. [Read more](./modules/camera-utilities/README.md)
-- **Custom Vision**: Implements custom vision models for image recognition tasks. [Read more](./modules/custom-vision/README.md)
-- **Auto ML for Images**: Automated machine learning for image classification and object detection. [Read more](./modules/auto-ml-for-images/README.md)
-- **Orchestrator Building Blocks**: Core components for orchestrating the workflow between different modules. [Read more](./modules/orchestrator-building-blocks/README.md)
-- **Orchestrator App**: An application that manages the orchestration of different modules. [Read more](./modules/orchestrator-app/README.md)
-- **Player App**: An application for displaying processed images and results. [Read more](./modules/player-app/README.md)
+- **Camera Utilities**: Tools and utilities for interfacing with camera hardware. [Read more](./modules/camera-utilities#readme)
+- **Custom Vision**: Implements custom vision models for image recognition tasks. [Read more](./modules/custom-vision#readme)
+- **Auto ML for Images**: Automated machine learning for image classification and object detection. [Read more](./modules/auto-ml-for-images#readme)
+- **Orchestrator Building Blocks**: Core components for orchestrating the workflow between different modules. [Read more](./modules/orchestrator-building-blocks#readme)
+- **Orchestrator App**: An application that manages the orchestration of different modules. [Read more](./modules/orchestrator-app#readme)
+- **Player App**: An application for displaying processed images and results. [Read more](./modules/player-app#readme)
 
 ## DevContainers
 
