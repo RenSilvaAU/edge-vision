@@ -13,5 +13,5 @@ run_docker() {
 
 ffmpeg_stream() {
     VIDEO=${1:-ms.mp4}
-    ffmpeg -re -stream_loop -1 -i "$VIDEO" -c copy -f flv rtmp://10.0.0.28:1935/output/stream
+    ffmpeg -re -stream_loop -1 -i "$VIDEO" -c copy -f flv rtmp://localhost:1935/output/stream
 }

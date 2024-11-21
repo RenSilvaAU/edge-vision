@@ -25,7 +25,12 @@
 			"ms-python.python",
 			"jupyter.vscode-jupyter",
 			"github.copilot"
-		]
+		],
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter"
+			]
+		}
 	},
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.

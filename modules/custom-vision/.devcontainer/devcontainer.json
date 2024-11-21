@@ -4,13 +4,16 @@
 		"dockerfile": "Dockerfile",
 		"context": ".."
 	},
-	"postCreateCommand": "pip install -r requirements.txt",
-	"customizations": {
+	"postCreateCommand": "bash ./.devcontainer/postCreateCommand.sh",
+    "customizations": {
 		"extensions": [
-			"ms-python.python",
-			"ms-toolsai.jupyter",
 			"github.copilot"
-		]
+		],
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter"
+			]
+		}
 	},
 	"remoteUser": "root"
 }
