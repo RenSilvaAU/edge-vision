@@ -6,7 +6,7 @@ This folder is part of the Edge-Vision repository. It contains notebooks that de
 
 ## Official Documentation
 
-For more information on AutoML for Images, please refer to the [official documentation on Microsoft Learn](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-auto-ml-image-modeling).
+For more information on AutoML for Images, please refer to the [official documentation on Microsoft Learn](https://learn.microsoft.com/azure/machine-learning/tutorial-auto-train-image-models?view=azureml-api-2&tabs=cli).
 
 ## DevContainer
 
