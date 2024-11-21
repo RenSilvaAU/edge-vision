@@ -1,5 +1,4 @@
-# Edge Vision
-| Player App
+# Player App
 
 This folder contains a sample React application, running two HLS servers:
 

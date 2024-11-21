@@ -1,5 +1,4 @@
-# Edge Vision
-| Camera Emulation
+# Camera Emulation
 
 The objective of this folder is to offer a few utilities for development in case you do not have access to a camera streaming RTSP or RTMP.
 

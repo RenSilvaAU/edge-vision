@@ -1,5 +1,4 @@
-# Edge Vision
-| Orchestrator App
+# Orchestrator App
 
 This folder contains an example of a custom object detection and tracking orchestrator.
 

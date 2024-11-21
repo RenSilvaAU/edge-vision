@@ -1,5 +1,4 @@
-# Edge Vision
-| Custom Vision
+# Custom Vision
 
 This folder is part of the Edge-Vision repository. It contains notebooks that demonstrate how to use Azure Custom Vision to train an object detection model.
 
