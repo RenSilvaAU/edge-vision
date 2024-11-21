@@ -25,7 +25,7 @@ To use this folder with its DevContainer, follow these steps:
 
 4. **Open the Folder in a DevContainer**:
     - Open Visual Studio Code.
-    - Navigate to the folder `/Users/rensilva/projects/current/edge-vision/modules/auto-ml-for-images`.
+    - Navigate to the folder `~/edge-vision/modules/auto-ml-for-images`.
     - Press `F1` and select `Remote-Containers: Open Folder in Container...`.
     - Select the folder and wait for the container to build and start.
 
